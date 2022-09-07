@@ -62,3 +62,16 @@ h4 {
     background-color: rgba(238, 179, 43, 0.849);
 }
 
+.plush {
+    width: 70%;
+    margin: 15px;
+    padding: 5px;
+}
+
+.card-img-top {
+    display: inline-block;
+    margin: 0 0.0,5rem;
+  
+    animation: pulse;
+    animation-duration: 1s;
+  }
